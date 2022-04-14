@@ -24,6 +24,13 @@
     margin-top: 25px;
 }
 
+.profile-image {
+    display: flex;
+    height: 90px;
+    margin-left: -85px;
+    margin-top: 130px;
+}
+
 ul {
     list-style-type: none;
 }
