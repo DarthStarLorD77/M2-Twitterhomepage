@@ -31,7 +31,6 @@
 .HTF {
     display: block;
     background-color: darkgray;
-    padding: 30px;
     margin-top: 10px;
     border-radius: 10px;
 }
@@ -79,6 +78,16 @@ ul {
     text-align: center;
     cursor: pointer;
     transition-duration: 0.3s;
+}
+
+.button2 {
+    background-color: black;
+    text-align: center;
+    font-size: medium;
+    color: antiquewhite;
+    width: 40%;
+    height: 40%;
+    border-radius: 15px;
 }
 
 .topnav [type=text] {
