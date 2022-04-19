@@ -5,7 +5,7 @@
 .leftwrapper {
     display: block;
     width: 20%;
-    border-right: 3px solid black;
+    border-right: 1px solid black;
     text-align: center;    
 }
 
@@ -16,7 +16,7 @@
 .rightwrapper {
     display: block;
     width: 25%;
-    border-left: 3px solid black;
+    border-left: 1px solid black;
 }
 
 .wrapper-content {
