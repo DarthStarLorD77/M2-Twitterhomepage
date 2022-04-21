@@ -21,7 +21,7 @@
 }
 
 .centralwrapper {
-    width: 55%;
+    width: 50%;
 }
 
 .child1 {
@@ -41,6 +41,7 @@
 
 .rightwrapper {
     display: block;
+    padding: 40px;
     width: 25%;
     border-left: 1px solid black;
 }
